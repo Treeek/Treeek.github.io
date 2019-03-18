@@ -2,5 +2,6 @@ theme: jekyll-theme-minimal
 include:
 - README.md
 title: john schmitz
-description: site do john
-show_downloads: false 
+description: Site do John
+show_downloads: false
+logo: images/atom.png 
