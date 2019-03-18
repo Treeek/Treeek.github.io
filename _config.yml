@@ -1,0 +1,6 @@
+theme: jekyll-theme-minimal
+include:
+- README.md
+title: john schmitz
+description: site do john
+show_downloads: false 
